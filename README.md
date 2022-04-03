@@ -1,4 +1,6 @@
 ### ✨ Olá! Me chamo Natalie Silva, seja bem vindo ao meu perfil do GitHub! 👋🎉
+              ✨ Hi there! My name is Natalie Silva, be welcome to my GitHub profile! 👋🎉
+
 
 - 👩‍💻 Web Developer;
 - 🤓 Aluna da 7ª geração do bootcamp da Laboratória Brasil <💛> / 7th generation student of the Laboratória Brazil bootcamp;

@@ -32,6 +32,6 @@
     <a href="https://app.slack.com/client/T0NNB6T0R/C0NNB4N5N/user_profile/U02SVCQ0PS6" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
     <a href="https://twitter.com/natalieiss"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank></a>
  
-  ![Snake animation](https://github.com/natalieiss/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/natalieiss/natalieiss/blob/output/github-contribution-grid-snake.svg)
  
 </div>

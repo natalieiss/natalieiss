@@ -6,7 +6,7 @@
 - 🤓 Aluna da 7ª geração do bootcamp da Laboratória Brasil <💛> / 7th generation student of the Laboratória Brazil bootcamp;
 - 🌱 Estou aprendendo JavaScript, CSS e HTML/I am learning JavaScript, CSS and HTML;
 - 🐱‍🏍 Tenho interesse em aprender Python/I'm interested in learning Python;
-- 😄 Pronomes/pronoun: ela & dela/she & Her;
+- 😄 Pronomes/pronoun: ela & dela/she & her;
 - ⚡ Fato engraçado/fun fact: tenho mais jogos e videogames hoje do que quando era criança/I have more games and video games today than when I was a kid;
 - 🎓 Formada em direito pela PUC Minas e advogada nas horas vagas/graduated in Law from PUC Minas and a lawyer in my spare time;
 
@@ -25,13 +25,12 @@
   
   ##
 
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center"> 
+  <a href="https://www.instagram.com/natalieingridss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:natalieingrid2910@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/natalie-silva-829b274a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://app.slack.com/client/T0NNB6T0R/C0NNB4N5N/user_profile/U02SVCQ0PS6" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
+    <a href="https://twitter.com/natalieiss"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank></a>
  
   ![Snake animation](https://github.com/natalieiss/blob/output/github-contribution-grid-snake.svg)
  

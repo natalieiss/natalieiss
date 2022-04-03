@@ -1,5 +1,5 @@
 ### ✨ Olá! Me chamo Natalie Silva, seja bem vindo ao meu perfil do GitHub! 👋🎉
-              ✨ Hi there! My name is Natalie Silva, be welcome to my GitHub profile! 👋🎉
+#### ✨ Hi there! My name is Natalie Silva, be welcome to my GitHub profile! 👋🎉
 
 
 - 👩‍💻 Web Developer;
@@ -15,8 +15,24 @@
 <div align = center>
     <a href="https://github.com/natalieiss">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natalieiss&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-    <img alt="nati-avatar" height="180em" src="newavatar.png">    
+    <img alt="nati-avatar" height="180em" src="https://i.picasion.com/pic92/4f9433c3eb4006dcb22b03f88542d4fa.gif">    
 </div>
-   
+  <div align="center"><br>
+  <img align="center" alt="nat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" alt="nat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="nat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  ##
 
-
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/natalieiss/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>

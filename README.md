@@ -1,16 +1,13 @@
-### Hi there 👋
+### ✨ Olá! Me chamo Natalie Silva e seja bem vindo ao meu perfil do GitHub! 🎉👋
 
-<!--
-**natalieiss/natalieiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩‍💻 Sou Web Developer/I'm a web developer;
+- 🤓 Aluna da 7ª geração do bootcamp da Laboratória Brasil <💛> / 7th generation student of the Laboratória Brazil bootcamp <💛>;
+- 🌱 Estou aprendendo JavaScript, CSS e HTML/I am learning JavaScript, CSS and HTML;
+- 🐱‍🏍 Tenho interesse em aprender Python/I'm interested in learning Python;
+- 😄 Pronomes/pronoun: ela & dela/she & Her;
+- ⚡ Fato engraçado/fun fact: tenho mais jogos e videogames hoje do que quando era criança/I have more games and video games today than when I was a kid;
+- 🎓 Formada em direito pela PUC Minas e advogada nas horas vagas/graduated in Law from PUC Minas and a lawyer in my spare time;
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+

@@ -10,12 +10,8 @@
 
 <div align = center>
     <a href="https://github.com/natalieiss">
-    <img align="right" alt="nati-avatar" height="170" style="border-radius:50px;" src="">
-</div>
-
-<div align="center">
-  <a href="https://github.com/natalieiss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natalieiss&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natalieiss&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+    <img style="border-radius:20px" height="180em" alt="nati-avatar" src="avatarone.png">    
 </div>
 
 

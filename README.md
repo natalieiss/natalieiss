@@ -30,8 +30,7 @@
   <a href = "mailto:natalieingrid2910@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/natalie-silva-829b274a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://app.slack.com/client/T0NNB6T0R/C0NNB4N5N/user_profile/U02SVCQ0PS6" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/natalieiss"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank></a>
-        
-![Snake animation](https://github.com/natalieiss/natalieiss/blob/output/github-contribution-grid-snake.svg)
- 
+    <a href="https://twitter.com/natalieiss"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank></a> 
 </div>
+        
+![Snake animation](https://github.com/natalieiss//natalieiss/blob/output/github-contribution-grid-snake.svg)

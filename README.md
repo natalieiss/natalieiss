@@ -11,11 +11,12 @@
 - 🎓 Formada em direito pela PUC Minas e advogada nas horas vagas/Graduated in Law from PUC Minas and lawyer in my spare time;
 
     ##
-
+<div align="center">
+    <img align= "right" alt="nati-avatar" height="180em" src="https://i.picasion.com/pic92/4f9433c3eb4006dcb22b03f88542d4fa.gif">
+</div>
 <div align = center>
     <a href="https://github.com/natalieiss">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natalieiss&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-    <img align= "right" alt="nati-avatar" height="180em" src="https://i.picasion.com/pic92/4f9433c3eb4006dcb22b03f88542d4fa.gif">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalieiss&layout=compact&langs_count=7&theme=panda"/>
 </div>
   <div align="center"><br>
@@ -27,7 +28,7 @@
   ##
 
 ![Snake animation](https://github.com/natalieiss/natalieiss/blob/output/github-contribution-grid-snake.svg)
-
+    
 <div align="center"> 
   <a href="https://www.instagram.com/natalieingridss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:natalieingrid2910@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

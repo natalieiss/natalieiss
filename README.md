@@ -1,6 +1,6 @@
 <div align = center>
     <a href="https://github.com/natalieiss">
-    <img alt="natcard" width="600px" heith="300px" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/427267435843026954/990383000980189184/natcard.gif">
+    <img alt="natcard" width="200px" heith="100px" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/427267435843026954/990383000980189184/natcard.gif">
     </a>
 </div>
 

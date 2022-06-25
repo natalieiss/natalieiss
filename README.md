@@ -1,5 +1,8 @@
-### ✨ Olá! Me chamo Natalie Silva, seja bem vindo ao meu perfil do GitHub! 👋🎉
-#### ✨ Hi there! My name is Natalie Silva, be welcome to my GitHub profile! 👋🎉
+<div align = center>
+    <a href="https://github.com/natalieiss">
+    <img alt="natcard" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/427267435843026954/990383000980189184/natcard.gif">
+    </a>
+</div>
 
 
 - 👩‍💻 Web Developer;

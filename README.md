@@ -10,7 +10,7 @@
 - ⚡ Fato engraçado/fun fact: tenho mais jogos e videogames hoje do que quando era criança/I have more games and video games today than when I was a kid;
 - 🎓 Formada em direito pela PUC Minas e advogada nas horas vagas/Graduated in Law from PUC Minas and lawyer in my spare time;
 
-    ##
+---
 <div align="center">
     <img align= "right" alt="nati-avatar" height="180em" src="https://i.picasion.com/pic92/4f9433c3eb4006dcb22b03f88542d4fa.gif">
 </div>
@@ -25,8 +25,7 @@
   <img align="center" alt="nat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
-
+---
 ![Snake animation](https://github.com/natalieiss/natalieiss/blob/output/github-contribution-grid-snake.svg)
     
 <div align="center"> 
@@ -36,3 +35,4 @@
     <a href="https://app.slack.com/client/T0NNB6T0R/C0NNB4N5N/user_profile/U02SVCQ0PS6" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
     <a href="https://twitter.com/natalieiss"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank></a> 
 </div>
+---

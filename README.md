@@ -1,10 +1,12 @@
+##Olá
+
 <div align = center>
     <a href="https://github.com/natalieiss">
     <img alt="natcard" width="200px" heith="100px" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/427267435843026954/990383000980189184/natcard.gif">
     </a>
 </div>
 
-
+---
 - 👩‍💻 Web Developer;
 - 🤓 Formada no bootcamp da Laboratória Brasil (7ª geração) <💛> / Graduated from Laboratoria's bootcamp (7ª geração) <💛>;
 - 🌱 Estou aprendendo JavaScript, CSS e HTML/I am learning JavaScript, CSS and HTML;

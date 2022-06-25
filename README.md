@@ -1,8 +1,6 @@
-## Olá
-
 <div align = center>
     <a href="https://github.com/natalieiss">
-    <img alt="natcard" style="border-radius:10px;" src="https://cdn.discordapp.com/attachments/427267435843026954/990383000980189184/natcard.gif">
+    <img alt="nat-card" style="border-radius:10px;" src="./natcard.gif">
     </a>
 </div>
 

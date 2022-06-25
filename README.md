@@ -1,8 +1,8 @@
-##Olá
+## Olá
 
 <div align = center>
     <a href="https://github.com/natalieiss">
-    <img alt="natcard" width="200px" heith="100px" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/427267435843026954/990383000980189184/natcard.gif">
+    <img alt="natcard" style="border-radius:10px;" src="https://cdn.discordapp.com/attachments/427267435843026954/990383000980189184/natcard.gif">
     </a>
 </div>
 
@@ -33,7 +33,7 @@
 ---
 ### 🛠  Outras Habilidades Técnicas/More Hard Skills:
     
-<div><br>
+<div align="center">
 <img align="center"  alt="Canva" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
 <img align="center"  alt="Figma" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 <img align="center"  alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
@@ -44,6 +44,7 @@
 <img align="center"  alt="React" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
 <img align="center"  alt="Trello" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
 <img align="center"  alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+</div>
     
 ---
 ![Snake animation](https://github.com/natalieiss/natalieiss/blob/output/github-contribution-grid-snake.svg)

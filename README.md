@@ -11,7 +11,7 @@
 - 🐱‍🏍 Tenho interesse em aprender Back-end e Machine Learning/I'm interested in learning Back-end and Machine Learning;
 - 😄 Pronomes/pronoun: ela & dela/she & her;
 - ⚡ Fato engraçado/fun fact: tenho mais jogos e videogames hoje do que quando era criança/I have more games and video games today than when I was a kid;
-- 🎓 Formada em direito pela PUC Minas e advogada nas horas vagas/Graduated in Law from PUC Minas and lawyer in my spare time;
+- 🎓 Formada em direito pela PUC Minas. Advoguei por 6 anos antes da minha transição de carreira/Graduated in Law from PUC Minas. I practiced law for 6 years before my career transition;
 
 ---
 <div align="center">
